@@ -11,6 +11,8 @@ const int screenWidth = 640;
 const int screenHeight = 480;
 const double R = 150;
 const double pi = 3.141592654;
+
+
 struct GLdoublePoint
 {
 	GLdouble x;
